@@ -162,7 +162,7 @@ header
 	width: 150px;
 	height: 40px;
 	margin-top: 390px;
-text-decoration: none;
+        text-decoration: none;
 	margin-left: 170px;
 	border-radius: 10px;
 	position: absolute;
@@ -171,8 +171,7 @@ text-decoration: none;
 	font-weight: bold;
 	cursor: pointer;
 	padding: 7px 0px 5px 20px;
-	color: black;
-	
+	color: black;	
 }
 .btn:hover
 {
